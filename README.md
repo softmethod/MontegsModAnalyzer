@@ -1,10 +1,5 @@
 # MontegsModAnalyzer
-PowerShell скрипт для сканирования модов в майнкрафте.
-
-# Установка
-```powershell
-powershell -ExecutionPolicy Bypass -Command "Invoke-Expression (Invoke-RestMethod 'https://raw.githubusercontent.com/softmethod/MontegsModAnalyzer/main/MontegsModAnalyzer.ps1')"
-```
+Приложение для сканирования модов в майнкрафте.
 
 # Как пользоваться
 При запуске скрипт запрашивает путь к папке mods:
